@@ -1,0 +1,87 @@
+{
+  "movies": [
+    {
+      "tittle": "one peice",
+      "genre": "Adventure",
+      "rating": 5,
+      "language": "English",
+      "id": 1
+    },
+    {
+      "tittle": "Demon slayer",
+      "genre": "Action",
+      "rating": 4.8,
+      "language": "Japanese",
+      "id": 2
+    },
+    {
+      "tittle": "Death Note",
+      "genre": "horror",
+      "rating": 4.5,
+      "language": "English",
+      "id": 3
+    },
+    {
+      "tittle": "jk",
+      "genre": "Action",
+      "rating": 5,
+      "language": "Japanese",
+      "id": 4
+    },
+    [
+      "Spirited Away",
+      "Drama",
+      "5",
+      "Japanese"
+    ],
+    [
+      "one",
+      "Drama",
+      "4",
+      "English"
+    ],
+    {
+      "tittle": "Silent Voice",
+      "genre": "Drama",
+      "rating": "5",
+      "language": "English",
+      "id": 7
+    },
+    {
+      "tittle": "Whisker Away",
+      "genre": "Drama",
+      "rating": "4",
+      "language": "japanese",
+      "id": 8
+    },
+    {
+      "tittle": "wanted",
+      "genre": "action",
+      "rating": "4.5",
+      "language": "English",
+      "id": 9
+    }
+  ],
+  "celebrities": [
+    {
+      "image": "/images/Henry.webp",
+      " Name": "Henry Cavil"
+    },
+    {
+      "image": "/images/joey.jpg",
+      " Name": "Joe Keery"
+    },
+    {
+      "image": "/images/jon.jpg",
+      " Name": "Jonathan Bailey"
+    },
+    {
+      "image": "/images/Tom.jpg",
+      " Name": "Tom Ellies"
+    },
+    {
+      "image": "/images/cillian.jpg",
+      " Name": "Cilian Murphy"
+    }
+  ]
+}

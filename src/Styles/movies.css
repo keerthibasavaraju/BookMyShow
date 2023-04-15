@@ -1,0 +1,62 @@
+
+.values
+{
+    background-color: gainsboro;
+   
+    margin-top: 10px ;
+    padding: 5px 0px;
+}
+
+
+.tittle 
+{
+    padding: 0px 64px;
+    
+}
+.moviesdata
+{
+   color: white;
+    background-color: rgba(0, 0, 0, 0.772);
+    margin: 15px 64px;
+    padding: 10px 10px ;
+}
+.moviesdata:hover{
+    background-color: rgb(172, 180, 180);
+    color: rgba(0, 0, 0, 0.879);
+}
+button
+{
+    color:balck;
+    cursor: pointer;
+    font-weight: bolder;
+    border: none;
+    border-radius: 4px;
+    padding: 5px;
+}
+.underline
+{
+    height: 13px;
+    width: 100px;
+    background-color:black ;
+}
+.under
+{
+    height: 13px;
+    width: 150px;
+    background-color:black ;
+}
+
+.celeb
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.celeb img:hover
+{
+   transform: scale(1.15);
+   transition: 1.5s;
+
+
+}
+

@@ -1,0 +1,35 @@
+
+.title
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   padding: 0px 64px;
+}
+.title a{
+    color: red;
+    font-size: 14px;
+}
+.images
+{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 64px;
+}
+
+.images img
+{
+    height: 378px;
+    width: 222px;
+    border-radius: 20px;
+    transition: 0.7s; 
+}
+
+.images img:hover{
+     /* transform:scale(1.2) */
+    /* to change size of img we use scale */
+    transform: translateY(-20px);
+    /* translate is used to move the image default or translateX is right --with negative it moves left
+    for top and bottom we use translate- Y */
+}
+
